@@ -1,0 +1,9 @@
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\obj\Debug\Lab01.Core.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\obj\Debug\Lab01.Core.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\bin\Debug\Lab01.Core.exe.config
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\bin\Debug\Lab01.Core.exe
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\bin\Debug\Lab01.Core.pdb
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\bin\Debug\Lab1.Console.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\bin\Debug\Lab1.Console.pdb
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\obj\Debug\Lab01.Core.exe
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab01.Core\obj\Debug\Lab01.Core.pdb

@@ -1,0 +1,6 @@
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab1.Console\bin\Debug\Lab1.Console.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab1.Console\bin\Debug\Lab1.Console.pdb
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab1.Console\obj\Debug\Lab1.Console.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab1.Console\obj\Debug\Lab1.Console.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab1.Console\obj\Debug\Lab1.Console.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab1.Console\Lab1.Console\obj\Debug\Lab1.Console.pdb
